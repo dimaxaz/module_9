@@ -20,3 +20,9 @@ def sum_three(a, b, c):
 
 result = sum_three(2, 3, 6)
 print(result)
+
+result = sum_three(2, 3, 4)
+print(result)
+
+result = sum_three(12, 13, 14)
+print(result)
