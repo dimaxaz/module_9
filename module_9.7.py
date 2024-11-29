@@ -27,8 +27,6 @@ print(result)
 result = sum_three(5, 7, 3)
 print(result)
 
-result = sum_three(10, 15, 5)
-print(result)
 
 result = sum_three(12, 13, 14)
 print(result)
